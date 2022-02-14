@@ -1,0 +1,25 @@
+.DS_Store
+dev/yowl/node_modules
+dev/yowl/dist
+
+
+
+
+# local env files
+dev/yowl/.env.local
+dev/yowl/.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
